@@ -1,4 +1,4 @@
-# Bakend_Python_July_Batch_A
+# Bakend_Python
 Google Contacts:
 Home Page: Shows all the contacts present for the logged In User
 Create Page: Allow loggedIn User to add a new contact to his list
